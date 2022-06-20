@@ -5,7 +5,7 @@
 <h2>About me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👀 I’m interested in Javascript Es6,ReactjS, Typescript,Vue js,storybook js
+- 👀 I’m interested in Javascript Es6,ReactjS,Node jS,Typescript,Vue js,storybook js
   
 - 🌱 I’m currently learning React js,and modern javascript frame works
   
