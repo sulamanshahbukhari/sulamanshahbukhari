@@ -1,6 +1,7 @@
 <h1 align="center">Hi ,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sulaman</h1>
 <h3 align="center">Frontend Engineer | React Js Developer </h3>
-![](https://komarev.com/ghpvc/?username=sulamanshahbukhari)
+
+![](https://komarev.com/ghpvc/?username=sulamanshahbukhari&color=green)
 
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = "100px"></h2> -->
 <h2>About me</h2>
