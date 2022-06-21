@@ -1,6 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=<h1 align="center">Hi ,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sulaman</h1>
-<h3 align="center">Frontend Engineer | React Js Developer </h3>%20&fontAlignY=40&color=gradient)
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20&fontAlignY=40&color=gradient)
+<h1 align="center">Hi ,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sulaman</h1>
+<h3 align="center">Frontend Engineer | React Js Developer </h3>
 
 ![](https://komarev.com/ghpvc/?username=sulamanshahbukhari&color=green)
 
