@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=sulamanshahbukhari&color=green)
 
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = "100px"></h2> -->
-<h2>About me</h2>
+<h2>About me :</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🧑‍🚀 Building great things with React <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
@@ -18,13 +18,13 @@
 
 <br/>
 
-<h3 align="left">Grow your Network</h3>
+<h3 align="left">My linkdin :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-sulaman-bukhari-396bb9132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-fraz-704816177" height="20" width="32" /></a>
 </p>
 
 <!-- <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2> -->
-<h2>Skills</h2>
+<h2>Skills :</h2>
 <div style='display:flex; flex-direction:row;'>
   
 <a href="https://reactjs.org/" target="_blank "><img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
