@@ -8,7 +8,7 @@
 <h2>About me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🧑‍🚀 Im currently working as a React Js Developer
+- 🧑‍🚀 Building great things with React <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 
 - 👀 I’m interested in Javascript Es6,ReactjS,Node jS,Typescript,Vue js,storybook js
   
