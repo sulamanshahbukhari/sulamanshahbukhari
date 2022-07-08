@@ -18,7 +18,7 @@
 
 <br/>
 
-<h3 align="left">My linkdin :</h3>
+<h3 align="left">Find me on linkedin :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-sulaman-bukhari-396bb9132/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-fraz-704816177" height="20" width="32" /></a>
 </p>
