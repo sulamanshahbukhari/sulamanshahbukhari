@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning React js,and modern javascript frame works
   
 - 💬 Ask me about React, JavaScript ,CSS 3
-- <p><a href="mailto:s.sulamanshahbukhari@gmail.com">contact me via email</a></p>
+- <p><a href="mailto:s.sulamanshahbukhari@gmail.com">my email: s.sulamanshahbukhari@gmail.com</a></p>
 
 <br/>
 
