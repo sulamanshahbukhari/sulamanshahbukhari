@@ -21,6 +21,8 @@
 
 
 <h3 align="left">Find me on linkedin :</h3>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="syed-sulaman-bukhari-396bb9132" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/syed-sulaman-bukhari-396bb9132?trk=profile-badge">Syed Sulaman Bukhari</a></div>
+              
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-sulaman-bukhari-396bb9132/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulamanshah" height="20" width="32" /></a>
 </p>
@@ -57,7 +59,7 @@
 <!-- ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p> -->
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 -----
 <!---
 sulamanshahbukhari/sulamanshahbukhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
