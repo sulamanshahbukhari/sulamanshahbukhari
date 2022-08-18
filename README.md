@@ -20,10 +20,11 @@
 <br/>
 
 
-<h3 align="left">Find me on linkedin :</h3>
+<h3 align="left">Connect with me on my Socials :</h3>
               
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-sulaman-bukhari-396bb9132/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulamanshah" height="20" width="32" /></a>
+<a href="https://twitter.com/Sulaman_Bukhari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-in-alt.svg" alt="sulamanshah" height="20" width="32" /></a>
 </p>
 
 <!-- <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2> -->
