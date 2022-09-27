@@ -10,7 +10,7 @@
 
 - 🧑‍🚀 Building great things with React <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 
-- 👀 I’m interested in Javascript Es6,ReactjS,Node jS,Typescript,Vue js,storybook js
+- 👀 I’m interested in Javascript Es6,ReactjS,Node jS,Typescript,Vue js,storybook js,Solidity js,Rust
   
 - 🌱 I’m currently learning React js,and modern javascript frame works
   
