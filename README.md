@@ -1,8 +1,8 @@
 <!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20&fontAlignY=40&color=gradient) -->
-<p align="center">Hi ,There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+<p>Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
 <!-- <h3 align="center">Software Engineer | Frontend Engineer | React Js Developer </h3> -->
-
-![](https://komarev.com/ghpvc/?username=sulamanshahbukhari&color=green)
+<!-- 
+![](https://komarev.com/ghpvc/?username=sulamanshahbukhari&color=green) -->
 
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = "100px"></h2> -->
 <!-- <h2>About me :</h2>
@@ -18,14 +18,14 @@
 - <p><a href="mailto:s.sulamanshahbukhari@gmail.com">my email: s.sulamanshahbukhari@gmail.com</a></p>
 
 <br/> -->
-
+<!-- 
 
 <h3 align="left">Connect with me on my Socials :</h3>
               
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-sulaman-bukhari-396bb9132/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulamanshah" height="20" width="32" /></a>
 <a href="https://twitter.com/Sulaman_Bukhari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sulamanshah" height="20" width="32" /></a>
-</p>
+</p> -->
 
 <!-- <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2> -->
 <!-- <h2>Skills :</h2>
