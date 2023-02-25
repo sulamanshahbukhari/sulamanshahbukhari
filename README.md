@@ -1,11 +1,11 @@
 <!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20&fontAlignY=40&color=gradient) -->
-<h1 align="center">Hi ,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sulaman</h1>
-<h3 align="center">Software Engineer | Frontend Engineer | React Js Developer </h3>
+<p align="center">Hi ,There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+<!-- <h3 align="center">Software Engineer | Frontend Engineer | React Js Developer </h3> -->
 
 ![](https://komarev.com/ghpvc/?username=sulamanshahbukhari&color=green)
 
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = "100px"></h2> -->
-<h2>About me :</h2>
+<!-- <h2>About me :</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🧑‍🚀 Building great things with React <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
@@ -17,7 +17,7 @@
 - 💬 Ask me about React, JavaScript ,CSS 3
 - <p><a href="mailto:s.sulamanshahbukhari@gmail.com">my email: s.sulamanshahbukhari@gmail.com</a></p>
 
-<br/>
+<br/> -->
 
 
 <h3 align="left">Connect with me on my Socials :</h3>
@@ -28,7 +28,7 @@
 </p>
 
 <!-- <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2> -->
-<h2>Skills :</h2>
+<!-- <h2>Skills :</h2>
 <div style='display:flex; flex-direction:row;'>
   
 <a href="https://reactjs.org/" target="_blank "><img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
@@ -44,9 +44,9 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
   
   </div>
+ -->
 
-
-
+<!-- 
 
 
 
@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulamanshahbukhari&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulamanshahbukhari&theme=tokyonight)  -->
 <!-- ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p> -->
