@@ -8,6 +8,8 @@
 <a href="https://www.coursera.org/account/accomplishments/verify/6K84LM3V8G28">Advanced React By META</a>
 </br>
 <a href="https://www.coursera.org/account/accomplishments/verify/Q76JPAJKP6GD">Front-End Web UI Frameworks and Tools: By The Hong Kong University of Science and Technology</a>
+</br>
+<a href="https://www.coursera.org/account/accomplishments/verify/BZ6JMNUFKSYX">Programming Foundations By Duke University</a>
 
 <b><p>Tech Stack: 🚀 </p></b>
 <p> TypeScript | JavaScript | React | Redux Tk | JQuery | MUI | Tailwind | Bootstrap | CSS3 | Node JS | MongoDb | AWS | Docker | Shopify </p>
