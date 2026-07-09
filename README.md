@@ -2,7 +2,7 @@
 <!-- <h3>Hi there <span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </span></h3> -->
 ### Hi there, it's Sulaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>Software Engineer with diverse experience. Specialises in front-end development. I solve problems on daily basis and a firm believer of innovation and creativity.</p>
-<b><p>Experience:</p></b><span> 5 YOE </span>
+<div><b><p>Experience:</p></b><span> 5 YOE </span></div>
 <p>Mwan Mobile: Full Stack Engineer | Frontend developer </p>
 <p>Devgate Consultancy: React developer| Team Lead </p>
 <p>TechArtisan: Frontend developer| Wordpress developer</p>
