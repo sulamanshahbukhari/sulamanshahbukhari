@@ -16,6 +16,8 @@
 <a href="https://www.coursera.org/account/accomplishments/verify/FVMQH3MTJD5V" target="_blank">Build a Business Architecture using AWS Organization </a>
 </br>
 <a href="https://www.coursera.org/account/accomplishments/verify/B2WMN4Q8G7ES" target="_blank">TypeScript  </a>
+</br>
+<b><p>Experience: 5 years</p></b>
 
 
 <b><p>Tech Stack: 🚀 </p></b>
