@@ -2,6 +2,7 @@
 <!-- <h3>Hi there <span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </span></h3> -->
 ### Hi there, it's Sulaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>Software Engineer with diverse experience. Specialises in front-end development. I solve problems on daily basis and a firm believer of innovation and creativity.</p>
+<b><p>Experience: 5 years</p></b>
 <b><p>Education: 🎓</p></b>
 <p>Bachelors in Software Engineering: RIPHAH international University(2016-2020). CGPA:3.57/4  </p>
 <b><p>Certifications: 📎</p></b>
@@ -17,7 +18,7 @@
 </br>
 <a href="https://www.coursera.org/account/accomplishments/verify/B2WMN4Q8G7ES" target="_blank">TypeScript  </a>
 </br>
-<b><p>Experience: 5 years</p></b>
+
 
 
 <b><p>Tech Stack: 🚀 </p></b>
