@@ -11,7 +11,7 @@
 </br>
 <a href="https://www.coursera.org/account/accomplishments/verify/BZ6JMNUFKSYX" target="_blank">Programming Foundations By Duke University</a>
 </br>
-<a href="https://www.coursera.org/account/accomplishments/verify/T5QN9X4NSLTR" target="_blank">Build & Deploy AI Messenger </a>
+<a href="https://www.coursera.org/account/accomplishments/verify/T5QN9X4NSLTR" target="_blank">Build & Deploy AI Messenger Chatbot </a>
 
 <b><p>Tech Stack: 🚀 </p></b>
 <p> TypeScript | JavaScript | React | Redux Tk | JQuery | MUI | Tailwind | Bootstrap | CSS3 | Node JS | MongoDb | AWS | Docker | Shopify </p>
