@@ -19,5 +19,5 @@
 
 
 <b><p>Tech Stack: 🚀 </p></b>
-<p> TypeScript | JavaScript | React | Redux Tk | JQuery | MUI | Tailwind | Bootstrap | CSS3 | Node JS | MongoDb | AWS | Docker | Shopify </p>
+<p>  JavaScript | React | TypeScript | Redux Tk | JQuery | MUI | Tailwind | Bootstrap | CSS3 | Node JS | MongoDb | AWS | Docker | Shopify </p>
 <p>discuss your next Project with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="25px"> s.sulamanshahbukhari@gmail.com</p>
