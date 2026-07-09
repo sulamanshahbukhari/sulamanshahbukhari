@@ -2,8 +2,8 @@
 <!-- <h3>Hi there <span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </span></h3> -->
 ### Hi there, it's Sulaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>Software Engineer with diverse experience. Specialises in front-end development. I solve problems on daily basis and a firm believer of innovation and creativity.</p>
-<div><b><p>Experience:</p></b><p> 5 YOE </p></div>
-<p>Mwan Mobile: Full Stack Engineer | Frontend developer </p>
+<div><b><p>Experience:</p></b></div>
+<p><b>Mwan Mobile:</b> Full Stack Engineer | Frontend developer </p>
 <p>Devgate Consultancy: React developer| Team Lead </p>
 <p>TechArtisan: Frontend developer| Wordpress developer</p>
 <p>TabOnTech: Frontend developer | shopify developer</p>
