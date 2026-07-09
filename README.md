@@ -4,10 +4,10 @@
 <p>Software Engineer with diverse experience. Specialises in front-end development. I solve problems on daily basis and a firm believer of innovation and creativity.</p>
 <div><b><p>Experience:</p></b></div>
 <p><b>Mwan Mobile:</b> Full Stack Engineer | Frontend developer </p>
-<p>Devgate Consultancy: React developer| Team Lead </p>
-<p>TechArtisan: Frontend developer| Wordpress developer</p>
-<p>TabOnTech: Frontend developer | shopify developer</p>
-<p>IZOC Solutions: Javascript developer</p>
+<p><b>Devgate Consultancy:</b> React developer| Team Lead </p>
+<p><b>TechArtisan:</b> Frontend developer| Wordpress developer</p>
+<p><b>TabOnTech:</b> Frontend developer | shopify developer</p>
+<p><b>IZOC Solutions:</b> Javascript developer</p>
 
 
 <b><p>Education: 🎓</p></b>
