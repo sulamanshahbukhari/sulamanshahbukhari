@@ -14,6 +14,8 @@
 <a href="https://www.coursera.org/account/accomplishments/verify/T5QN9X4NSLTR" target="_blank">Build & Deploy AI Messenger Chatbot </a>
 </br>
 <a href="https://www.coursera.org/account/accomplishments/verify/FVMQH3MTJD5V" target="_blank">Build a Business Architecture using AWS Organization </a>
+</br>
+<a href="https://www.coursera.org/account/accomplishments/verify/B2WMN4Q8G7ES" target="_blank">TypeScript  </a>
 
 
 <b><p>Tech Stack: 🚀 </p></b>
