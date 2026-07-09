@@ -6,6 +6,7 @@
 <p>Bachelors in Software Engineering: RIPHAH international University(2016-2020). CGPA:3.57/4  </p>
 <b><p>Certifications: 📎</p></b>
 <a href="https://www.coursera.org/account/accomplishments/verify/6K84LM3V8G28">Advanced React By META</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/Q76JPAJKP6GD">ront-End Web UI Frameworks and Tools: By The Hong Kong University of Science and Technology</a>
 
 <b><p>Tech Stack: 🚀 </p></b>
 <p> TypeScript | JavaScript | React | Redux Tk | JQuery | MUI | Tailwind | Bootstrap | CSS3 | Node JS | MongoDb | AWS | Docker | Shopify </p>
