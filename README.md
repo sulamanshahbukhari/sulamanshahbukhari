@@ -6,7 +6,7 @@
 <p>Bachelors in Software Engineering: RIPHAH international University(2016-2020). CGPA:3.57/4  </p>
 <b><p>Certifications: 📎</p></b>
 <a href="https://www.coursera.org/account/accomplishments/verify/6K84LM3V8G28">Advanced React By META</a>
-<br>
+</br>
 <a href="https://www.coursera.org/account/accomplishments/verify/Q76JPAJKP6GD">Front-End Web UI Frameworks and Tools: By The Hong Kong University of Science and Technology</a>
 
 <b><p>Tech Stack: 🚀 </p></b>
